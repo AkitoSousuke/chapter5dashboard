@@ -1,0 +1,6 @@
+order_date,company,country,product,license_type,amount
+2016-12-29,Company 130,UK,Product 1,Invoice,16872.28
+2016-12-29,Company 97,US,Product 1,Invoice,18827.02
+2016-12-28,Company 18,DE,Product 2,Invoice,15408.45
+2016-12-28,Company 80,UK,Product 2,Invoice,7182.39
+2016-12-28,Company 83,UK,Product 1,Invoice,20194.02
